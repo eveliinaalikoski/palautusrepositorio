@@ -1,6 +1,6 @@
-##Retrospektiivitekniikat
+## Retrospektiivitekniikat
 
-###Start, Stop, Continue, More of, Less of Wheel
+### Start, Stop, Continue, More of, Less of Wheel
 
 Iteraation lopussa käydään läpi ryhmän kanssa miten voidaan parantaa työskentelyä viiden kategorian avulla. 
 Kategoriat ovat:
@@ -13,7 +13,8 @@ Kategoriat ovat:
 Näiden kategorioiden avulla sovitaan seuraavalle iteraatiolle yhteiset käytänteet ja työskentelytavat.
 Tapaamisen arvioitu kesto on noin 10-25 min riippuen ryhmän koosta.
 
-###Glad, Sad, Mad
+
+### Glad, Sad, Mad
 
 Kaikki ryhmän jäsenet kirjoittavat ylös (esim. lapuille) muistiinpanoja ja huomioita edelliseltä iteraatiolta. Jokainen jäsen esittelee omat muistiinpanot ryhmälle, jonka jälkeen esim. valkotaulu jaetaan kolmeen kategoriaan: 'Glad', 'Sad' ja 'Mad'. Jokainen lappu sijoitetaan taululle haluttuun kategoriaan. 
 Kun jaoittelu on tehty, äänestetään yhdessä mikä aihe halutaan käsitellä ensimmäisenä. Käsitellään laput yksitellen ja äänestysjärjestyksessä. Jokaisesta aiheesta keskustellaan, keskittyen siihen, miten tilanne saadaan pysymään, jos kategoriana on ollut 'Glad', muutoin mietitään, miten ja mitä muutetaan, että asia saadaan ratkaistua.
